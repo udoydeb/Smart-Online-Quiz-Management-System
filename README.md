@@ -8,26 +8,41 @@ Features
 Student Features
 
 Student registration and login system
+
 Take timed quizzes
+
 Automatic scoring system
+
 View leaderboard rankings
+
 Real-time quiz timer
+
 View quiz results instantly
 
  Teacher / Faculty Features
  
 Teacher registration and login
+
 Add new quiz questions
+
 Delete quiz questions
+
 View all questions
+
 View student list
+
 Manage student accounts
+
 View detailed leaderboard
 
 Technologies Used
 
 Java – Core application logic
+
 JavaFX – Graphical User Interface
+
 MySQL – Database management
+
 JDBC – Database connectivity
+
 OOP (Object Oriented Programming) – Code structure and design
